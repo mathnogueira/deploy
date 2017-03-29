@@ -1,0 +1,16 @@
+{
+  "name": "deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "konfig": "^0.2.1",
+    "ncp": "^2.0.0",
+    "npc": "0.0.1"
+  }
+}

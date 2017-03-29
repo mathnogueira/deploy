@@ -1,0 +1,13 @@
+default:
+
+    logica:
+        origem: D:\\Publish\\siout\\bin
+        destino: D:\\Fake\\pre-pra\\Logica  
+
+    interface:
+        origem: D:\\workspace\\SIOUT\\Interface\\dist
+        destino: D:\\Fake\\pre-pra\\Interface
+
+    documentos:
+        origem: D:\\workspace\\SIOUT\\Interface\\dist
+        destino: D:\\Fake\\pre-pra\\Documentos
